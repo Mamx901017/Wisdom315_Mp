@@ -91,6 +91,8 @@
 ._流程形状 {
 }
 ._形状 {
+}
+._形状1 {
   font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
   font-weight:400;
   font-style:normal;
@@ -157,6 +159,8 @@
 .image1 {
   color:#000000;
 }
+.placeholder {
+}
 .vertical_line {
 }
 .checkbox {
@@ -185,9 +189,12 @@
 }
 ._图片 {
 }
-._形状1 {
+._形状2 {
 }
 ._图片1 {
 }
 .flow_shape {
+}
+._文本段落1 {
+  text-align:left;
 }
