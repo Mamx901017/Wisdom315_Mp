@@ -21,7 +21,10 @@
   height:500px;
   background:inherit;
   background-color:rgba(242, 242, 242, 1);
-  border:none;
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(16, 142, 233, 1);
   border-radius:0px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
