@@ -69,7 +69,7 @@
   -moz-box-shadow:0px 0px 4px rgba(0, 0, 0, 0.349019607843137);
   -webkit-box-shadow:0px 0px 4px rgba(0, 0, 0, 0.349019607843137);
   box-shadow:0px 0px 4px rgba(0, 0, 0, 0.349019607843137);
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -84,7 +84,7 @@
   top:2276px;
   width:901px;
   height:640px;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -1928,7 +1928,7 @@
   -moz-box-shadow:0px 0px 4px rgba(0, 0, 0, 0.349019607843137);
   -webkit-box-shadow:0px 0px 4px rgba(0, 0, 0, 0.349019607843137);
   box-shadow:0px 0px 4px rgba(0, 0, 0, 0.349019607843137);
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -1943,7 +1943,7 @@
   top:2276px;
   width:901px;
   height:640px;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -3053,7 +3053,7 @@
   -moz-box-shadow:0px 0px 4px rgba(0, 0, 0, 0.349019607843137);
   -webkit-box-shadow:0px 0px 4px rgba(0, 0, 0, 0.349019607843137);
   box-shadow:0px 0px 4px rgba(0, 0, 0, 0.349019607843137);
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -3068,7 +3068,7 @@
   top:1321px;
   width:901px;
   height:640px;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -5905,11 +5905,11 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'微软雅黑';
+  font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
   font-weight:400;
   font-style:normal;
   font-size:12px;
-  color:#666666;
+  color:#CCCCCC;
   text-align:left;
 }
 #u7361 {
@@ -5919,11 +5919,11 @@
   top:1237px;
   width:320px;
   height:28px;
-  font-family:'微软雅黑';
+  font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
   font-weight:400;
   font-style:normal;
   font-size:12px;
-  color:#666666;
+  color:#CCCCCC;
   text-align:left;
 }
 #u7362 {
@@ -5947,7 +5947,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:57px;
+  width:81px;
   height:76px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -5968,7 +5968,7 @@
   position:absolute;
   left:134px;
   top:1210px;
-  width:57px;
+  width:81px;
   height:76px;
   font-family:'微软雅黑';
   font-weight:400;
@@ -5982,7 +5982,7 @@
   position:absolute;
   left:0px;
   top:4px;
-  width:49px;
+  width:73px;
   white-space:nowrap;
 }
 #u7365_img {
@@ -6637,7 +6637,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:57px;
+  width:85px;
   height:16px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -6656,7 +6656,7 @@
   position:absolute;
   left:152px;
   top:1342px;
-  width:57px;
+  width:85px;
   height:16px;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
@@ -6668,7 +6668,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:57px;
+  width:85px;
   white-space:nowrap;
 }
 #u7401 {
@@ -6928,7 +6928,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:56px;
+  width:45px;
   height:76px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -6940,6 +6940,8 @@
   font-family:'微软雅黑';
   font-weight:400;
   font-style:normal;
+  font-size:12px;
+  color:#666666;
   line-height:18px;
 }
 #u7416 {
@@ -6947,11 +6949,13 @@
   position:absolute;
   left:134px;
   top:1541px;
-  width:56px;
+  width:45px;
   height:76px;
   font-family:'微软雅黑';
   font-weight:400;
   font-style:normal;
+  font-size:12px;
+  color:#666666;
   line-height:18px;
 }
 #u7417 {
@@ -6959,7 +6963,7 @@
   position:absolute;
   left:0px;
   top:4px;
-  width:48px;
+  width:37px;
   white-space:nowrap;
 }
 #u7418 {
@@ -7823,7 +7827,7 @@
   border-width:0px;
   position:absolute;
   left:870px;
-  top:2010px;
+  top:2007px;
   width:320px;
   height:28px;
   font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
@@ -7845,7 +7849,7 @@
   border-width:0px;
   position:absolute;
   left:1183px;
-  top:2006px;
+  top:2003px;
   width:1px;
   height:1px;
 }
@@ -7874,7 +7878,7 @@
   border-width:0px;
   position:absolute;
   left:870px;
-  top:1983px;
+  top:1980px;
   width:81px;
   height:76px;
   font-family:'微软雅黑';
@@ -7904,7 +7908,7 @@
   border-width:0px;
   position:absolute;
   left:1173px;
-  top:2019px;
+  top:2016px;
   width:8px;
   height:10px;
   -webkit-transform:rotate(90deg);
@@ -14287,7 +14291,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:57px;
+  width:69px;
   height:76px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -14308,7 +14312,7 @@
   position:absolute;
   left:134px;
   top:709px;
-  width:57px;
+  width:69px;
   height:76px;
   font-family:'微软雅黑';
   font-weight:400;
@@ -14322,7 +14326,7 @@
   position:absolute;
   left:0px;
   top:4px;
-  width:49px;
+  width:61px;
   white-space:nowrap;
 }
 #u7812 {
@@ -14401,7 +14405,7 @@
   font-weight:400;
   font-style:normal;
   font-size:12px;
-  color:#666666;
+  color:#CCCCCC;
   text-align:left;
   line-height:18px;
 }
@@ -14416,7 +14420,7 @@
   font-weight:400;
   font-style:normal;
   font-size:12px;
-  color:#666666;
+  color:#CCCCCC;
   text-align:left;
   line-height:18px;
 }
@@ -18703,7 +18707,7 @@
   -moz-box-shadow:0px 0px 4px rgba(0, 0, 0, 0.349019607843137);
   -webkit-box-shadow:0px 0px 4px rgba(0, 0, 0, 0.349019607843137);
   box-shadow:0px 0px 4px rgba(0, 0, 0, 0.349019607843137);
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -18718,7 +18722,7 @@
   top:256px;
   width:901px;
   height:640px;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -21065,7 +21069,7 @@
   border-width:0px;
   position:absolute;
   left:792px;
-  top:533px;
+  top:591px;
   width:30px;
   height:30px;
 }
@@ -21082,7 +21086,7 @@
   border-width:0px;
   position:absolute;
   left:807px;
-  top:563px;
+  top:621px;
   width:0px;
   height:0px;
 }
@@ -21092,45 +21096,53 @@
   left:-4px;
   top:0px;
   width:8px;
-  height:181px;
+  height:9px;
 }
 #u8172_seg1 {
   border-width:0px;
   position:absolute;
   left:-4px;
-  top:173px;
-  width:1711px;
-  height:8px;
+  top:1px;
+  width:8px;
+  height:122px;
 }
 #u8172_seg2 {
   border-width:0px;
   position:absolute;
-  left:1699px;
-  top:9px;
-  width:8px;
-  height:172px;
+  left:-4px;
+  top:115px;
+  width:1711px;
+  height:8px;
 }
 #u8172_seg3 {
   border-width:0px;
   position:absolute;
   left:1699px;
-  top:9px;
-  width:18px;
-  height:8px;
+  top:-49px;
+  width:8px;
+  height:172px;
 }
 #u8172_seg4 {
   border-width:0px;
   position:absolute;
   left:1699px;
-  top:2px;
+  top:-49px;
+  width:18px;
+  height:8px;
+}
+#u8172_seg5 {
+  border-width:0px;
+  position:absolute;
+  left:1699px;
+  top:-56px;
   width:23px;
   height:22px;
 }
 #u8173 {
   border-width:0px;
   position:absolute;
-  left:802px;
-  top:169px;
+  left:831px;
+  top:111px;
   width:100px;
   visibility:hidden;
   word-wrap:break-word;
