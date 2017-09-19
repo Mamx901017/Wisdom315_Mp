@@ -59,6 +59,10 @@
   color:#000000;
   text-align:left;
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
 .list_box {
   color:#000000;
   text-align:left;
@@ -103,7 +107,7 @@
 ._形状 {
 }
 ._形状1 {
-  font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
+  font-family:'MicrosoftYaHei', 'Microsoft YaHei';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -231,5 +235,12 @@
   font-weight:400;
   font-style:normal;
   font-size:15px;
+  text-align:left;
+}
+._24号字_最小说明文本，例如列表时间态、版权信息等） {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
   text-align:left;
 }
